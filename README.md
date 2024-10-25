@@ -1,2 +1,4 @@
 # DexoWare
-this is beta 
+Da Hood P 9999 script
+
+*this is beta*
