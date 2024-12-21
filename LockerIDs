@@ -3,11 +3,11 @@ local LockerIDs = {
     4311050993, -- ID 2 :roblox_user_4311050993
     3596497876, -- ID 3  Bot_isbettterthanu
     7278779490, -- ID 4  NotZay131
-	546058699,  -- ID 5  v3stlyy
-	985557924,  -- ID 6  TSM_Yuahan
-	1711034675, -- ID 7  cjlanuza_gaming
-	3920175049, --Kiro_Yoshi
-	1287907011, --xXxmistiriyuzxXx
-	4548675241, --Dragonking_w13
-	2505804584, --YeshAilly
+    546058699,  -- ID 5  v3stlyy
+    985557924,  -- ID 6  TSM_Yuahan
+    1711034675, -- ID 7  cjlanuza_gaming
+    3920175049, --Kiro_Yoshi
+    1287907011, --xXxmistiriyuzxXx
+    4548675241, --Dragonking_w13
+    2505804584, --YeshAilly
 } -- Locker user IDs
